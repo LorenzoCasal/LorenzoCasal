@@ -54,7 +54,8 @@ I studied Systems Engineering for one year and decided to continue my path indep
 
 ## 📫 Contact
 
-- 💼 Open to Freelance & Full-Time Roles  
+- 💼 Open to Freelance & Full-Time Roles
+- Portfolio: https://lorenzo-casal-portfolio.web.app/
 - LinkedIn: https://www.linkedin.com/in/lorenzo-casal/
 - Email: lorenzocasal31@gmail.com  
 
