@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
-
 # Hi, I'm Lorenzo 👋  
 ### Frontend Developer | UI-Focused | Performance-Driven  
 
